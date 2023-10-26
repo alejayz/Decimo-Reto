@@ -59,7 +59,7 @@ Un algoritmo de sorting, también conocido como algoritmo de ordenación es un c
 
 Los tipos de algoritmos de ordenación más comunes son:
 
-Ordenamiento de burbuja (Bubble Sort): compara elementos en pares hasta que los elementos más grandes “burbujean” hasta el final de la lista y los más pequeños permanecen al principio.
+**Ordenamiento de burbuja (Bubble Sort): compara elementos en pares hasta que los elementos más grandes “burbujean” hasta el final de la lista y los más pequeños permanecen al principio.**
 
 Orden de selección (Selectión Sort): separa la lista en dos partes, ordenada y no ordenada, y “elimina” el elemento más pequeño de la parte sin ordenar y lo agrega a la parte ordenada.
 
