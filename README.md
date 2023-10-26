@@ -53,3 +53,18 @@ if __name__ == "__main__":
 ```
 
 **4.** Revisar que son los algoritmos de *sorting*, entender *bubble-sort*.
+
+**Algoritmo de *sorting*:**
+Un algoritmo de sorting, también conocido como algoritmo de ordenación es un conjunto de instrucciones que toman un arreglo o lista como entrada y organizan los elementos en un orden determinado. Las formas de ordenación pueden ser numéricas o de manetra de orden alfabético y pueden ser en orden ascendente (AZ, 0-9) o descendente (ZA, 9-0).
+
+Los tipos de algoritmos de ordenación más comunes son:
+
+Ordenamiento de burbuja (Bubble Sort): compara elementos en pares hasta que los elementos más grandes “burbujean” hasta el final de la lista y los más pequeños permanecen al principio.
+
+Orden de selección (Selectión Sort): separa la lista en dos partes, ordenada y no ordenada, y “elimina” el elemento más pequeño de la parte sin ordenar y lo agrega a la parte ordenada.
+
+Tipo de inserción (Insert Sort): separa la lista en dos partes, ordenadas y no ordenada. Se supone que el primer elemento está ordenado, luego el siguiente elemento se compara ese elemento con el primero, si es mayor, se queda como está pero si es más pequeño, se copea el primer elemento en la segunda posición y se inserta el segundo como primero.
+
+Combinar ordenación (Merge Sort): divide la lista en dos, luego estas en 4 y así sucesivamente hasta que se formen listas de un elemento de longitud. Después, estos elementos se vuelven a unir en orden. 
+
+Fuente: https://eiposgrados.com/blog-python/tipos-de-algoritmos-de-ordenacion-en-python/
